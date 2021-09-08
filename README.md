@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neda-ale
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on Data science projects
+- 💞️ I’m looking to collaborate on Data analyst/science projects
 - 📫 How to reach me ...
 
 <!---
